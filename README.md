@@ -25,3 +25,9 @@ If players enter a correct pattern for the laser game, turn off the laser indica
 
 If players press SW1 after entering a correct pattern, turn off the maglock.
 	If players press SW1 before entering the correct pattern, nothing happens.
+
+---------------------------
+
+These repositoreis are here to help escape room owners add cool puzzles and props to their rooms.  
+
+We make ClueControl, which is software used to monitor, control and automate escape rooms.  Please consider visiting our website at www.cluecontrol.com to check out what else we have to offer!
